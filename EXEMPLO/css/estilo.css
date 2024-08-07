@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+dody{
+    font-size: 14px; /* tamanho da fontre */
+    font-family: 'trebuchet MS';
+    background-color: #e6e6e6;
+}
+
+#area-cabecario{
+    background-color: #f7b600; 
+    text-align: center;
+    padding: 15px;
+}
